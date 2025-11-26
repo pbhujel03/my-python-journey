@@ -1,0 +1,7 @@
+Account SummaryCurrent Balance is: Rs1346456.00
+
+Transaction History:
+-Rs1200000.00 deposited successfully.
+-Rs23000.00 deposited successfully.
+-Rs123456.00 deposited successfully.
+-insufficient Balance
